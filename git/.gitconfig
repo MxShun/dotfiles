@@ -1,0 +1,26 @@
+[core]
+	autocrlf = false
+	ignoreCase = false
+
+[status]
+	showUntrackedFiles = all
+
+[diff]
+	algorithm = histogram
+
+[merge]
+	ff = false
+
+[fetch]
+	prune = true
+
+[pull]
+	ff = only
+
+[push]
+	default = simple
+	followTags = true
+
+[user]
+	name = MxShun
+	email = 16466322+MxShun@users.noreply.github.com
