@@ -1,6 +1,7 @@
 # ---------------------------------------------------------
 # PATH
 # ---------------------------------------------------------
+export PATH="$HOME/dev/bin:$PATH"
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH="/opt/homebrew/opt/mysql@5.7/bin:$PATH"
 
